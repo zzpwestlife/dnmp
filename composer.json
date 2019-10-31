@@ -1,0 +1,5 @@
+{
+    "require": {
+        "swooletw/laravel-swoole": "^2.6"
+    }
+}
