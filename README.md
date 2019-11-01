@@ -1,4 +1,4 @@
-# Fetch from [yeszao/dnmp](https://github.com/yeszao/dnmp)
+# Fork from [yeszao/dnmp](https://github.com/yeszao/dnmp)
 
 ---
 
